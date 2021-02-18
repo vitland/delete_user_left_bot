@@ -1,0 +1,23 @@
+{
+  "name": "delete_user_left",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitland/delete_user_left_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitland/delete_user_left_bot/issues"
+  },
+  "homepage": "https://github.com/vitland/delete_user_left_bot#readme"
+}
